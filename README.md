@@ -9,7 +9,7 @@ Apache Maven 3.6.0
 
 
 ### To run:
-- mvn clean install
+- mvn clean install (all 9 tests should be passing)
 - mvn spring-boot:run
 
 #### Database info
